@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: share-price-nepal
+Version: 0.1.5
+Summary: Get Today's Share Price
+Home-page: UNKNOWN
+Author: Aayam Shrestha
+Author-email: aayamthebest555@gmail.com
+License: UNKNOWN
+Description: This package can show today's share price of Nepal and store it in csv file. Source: https://www.sharesansar.com/
+Keywords: python,share sansar,share price,share nepal,share price in nepal,share market of nepal,Aayam Shrestha
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown
